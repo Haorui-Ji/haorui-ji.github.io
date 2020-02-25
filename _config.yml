@@ -2,12 +2,12 @@
 title: Jerry's Blog
 SEOTitle: 皓瑞的博客 | Jerry's Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: jerryjhr0425@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://haorui-ji.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Haorui-Ji/haorui-ji.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,11 +19,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+zhihu_username:     Darkknight0425
+github_username:    Haorui-Ji
+facebook_username:  Jerry Ji
+# jianshu_username:   e71990ada2fd
+# twitter_username:   qiubaiying
 
 
 
